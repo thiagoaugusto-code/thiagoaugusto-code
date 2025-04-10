@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/thiago-augusto-luiz-a01667355" target="_blank">
+  <a href="https://br.linkedin.com/in/thiago-augusto-luiz-a01667355" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
